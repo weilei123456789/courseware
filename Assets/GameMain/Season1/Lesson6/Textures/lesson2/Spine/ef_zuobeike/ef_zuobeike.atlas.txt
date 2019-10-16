@@ -1,0 +1,27 @@
+
+ef_zuobeike.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike
+  rotate: false
+  xy: 2, 153
+  size: 290, 206
+  orig: 295, 211
+  offset: 0, 5
+  index: -1
+guang
+  rotate: false
+  xy: 294, 294
+  size: 65, 65
+  orig: 67, 67
+  offset: 1, 1
+  index: -1
+shuipo
+  rotate: false
+  xy: 294, 259
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

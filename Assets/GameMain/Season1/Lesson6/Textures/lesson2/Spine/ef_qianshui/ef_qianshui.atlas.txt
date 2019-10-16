@@ -1,0 +1,20 @@
+
+ef_qianshui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 274, 275
+  size: 183, 182
+  orig: 185, 184
+  offset: 1, 2
+  index: -1
+qiangshui
+  rotate: false
+  xy: 2, 298
+  size: 270, 159
+  orig: 271, 159
+  offset: 1, 0
+  index: -1

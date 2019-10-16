@@ -1,0 +1,48 @@
+
+ef_ziliaoxiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: false
+  xy: 299, 122
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 268, 377
+  size: 220, 238
+  orig: 221, 238
+  offset: 0, 0
+  index: -1
+guangbo
+  rotate: false
+  xy: 268, 249
+  size: 216, 126
+  orig: 224, 135
+  offset: 4, 0
+  index: -1
+highlight
+  rotate: true
+  xy: 2, 2
+  size: 222, 295
+  orig: 222, 295
+  offset: 0, 0
+  index: -1
+shang
+  rotate: false
+  xy: 2, 226
+  size: 264, 371
+  orig: 267, 377
+  offset: 0, 2
+  index: -1
+yuan
+  rotate: false
+  xy: 426, 122
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

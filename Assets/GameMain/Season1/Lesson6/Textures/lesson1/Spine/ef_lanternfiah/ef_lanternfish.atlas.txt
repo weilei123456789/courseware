@@ -1,0 +1,48 @@
+
+ef_lanternfish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 69
+  size: 65, 126
+  orig: 65, 127
+  offset: 0, 0
+  index: -1
+dark
+  rotate: true
+  xy: 69, 181
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 2
+  size: 22, 23
+  orig: 23, 24
+  offset: 1, 0
+  index: -1
+line
+  rotate: true
+  xy: 2, 26
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 52, 5
+  size: 19, 29
+  orig: 58, 39
+  offset: 39, 0
+  index: -1
+qi_1
+  rotate: false
+  xy: 27, 4
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

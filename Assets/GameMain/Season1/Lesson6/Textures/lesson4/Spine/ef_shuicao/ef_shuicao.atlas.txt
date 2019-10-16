@@ -1,0 +1,34 @@
+
+ef_shuicao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: false
+  xy: 2, 133
+  size: 177, 156
+  orig: 177, 156
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 181, 122
+  size: 167, 107
+  orig: 171, 112
+  offset: 1, 2
+  index: -1
+qipao
+  rotate: false
+  xy: 109, 18
+  size: 134, 102
+  orig: 134, 102
+  offset: 0, 0
+  index: -1
+sitou
+  rotate: true
+  xy: 2, 2
+  size: 129, 105
+  orig: 131, 165
+  offset: 2, 0
+  index: -1

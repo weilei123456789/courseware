@@ -1,0 +1,20 @@
+
+ef_octopus_shang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shang
+  rotate: false
+  xy: 2, 441
+  size: 611, 87
+  orig: 611, 87
+  offset: 0, 0
+  index: -1
+shang_y
+  rotate: false
+  xy: 2, 530
+  size: 613, 85
+  orig: 613, 85
+  offset: 0, 0
+  index: -1

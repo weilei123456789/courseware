@@ -1,0 +1,20 @@
+
+ef_fish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish
+  rotate: false
+  xy: 2, 119
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 137, 123
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1

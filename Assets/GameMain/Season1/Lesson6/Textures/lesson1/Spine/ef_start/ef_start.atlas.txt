@@ -1,0 +1,27 @@
+
+ef_start.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 229, 231
+  size: 264, 176
+  orig: 271, 177
+  offset: 2, 0
+  index: -1
+submarine
+  rotate: true
+  xy: 2, 2
+  size: 220, 266
+  orig: 220, 266
+  offset: 0, 0
+  index: -1
+submarine_y
+  rotate: false
+  xy: 2, 224
+  size: 225, 271
+  orig: 225, 271
+  offset: 0, 0
+  index: -1

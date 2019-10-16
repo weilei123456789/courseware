@@ -1,0 +1,83 @@
+
+ef_pao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 409
+  size: 71, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 204, 388
+  size: 95, 92
+  orig: 96, 93
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 293
+  size: 142, 106
+  orig: 143, 107
+  offset: 0, 1
+  index: -1
+4
+  rotate: false
+  xy: 301, 375
+  size: 154, 105
+  orig: 156, 107
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 268, 265
+  size: 158, 108
+  orig: 158, 109
+  offset: 0, 1
+  index: -1
+6
+  rotate: true
+  xy: 2, 34
+  size: 129, 130
+  orig: 129, 131
+  offset: 0, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 165
+  size: 133, 126
+  orig: 133, 128
+  offset: 0, 1
+  index: -1
+8
+  rotate: false
+  xy: 146, 270
+  size: 120, 116
+  orig: 121, 116
+  offset: 1, 0
+  index: -1
+9
+  rotate: true
+  xy: 84, 401
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 137, 142
+  size: 121, 169
+  orig: 121, 169
+  offset: 0, 0
+  index: -1
+touyin
+  rotate: true
+  xy: 308, 138
+  size: 125, 172
+  orig: 125, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ef_beike.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike1
+  rotate: false
+  xy: 2, 75
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+beike2
+  rotate: false
+  xy: 2, 2
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1

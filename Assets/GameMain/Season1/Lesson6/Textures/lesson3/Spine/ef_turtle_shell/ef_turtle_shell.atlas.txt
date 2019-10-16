@@ -1,0 +1,20 @@
+
+ef_turtle_shell.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turtle_shell
+  rotate: false
+  xy: 2, 2
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+turtle_shell_y
+  rotate: false
+  xy: 2, 97
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1

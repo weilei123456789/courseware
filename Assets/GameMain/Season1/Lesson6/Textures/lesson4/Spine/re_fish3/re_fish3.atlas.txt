@@ -1,0 +1,69 @@
+
+re_fish3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EP04_4_FISH_S_00000
+  rotate: false
+  xy: 131, 298
+  size: 125, 88
+  orig: 135, 97
+  offset: 6, 5
+  index: -1
+EP04_4_FISH_S_00001
+  rotate: false
+  xy: 131, 388
+  size: 127, 89
+  orig: 135, 97
+  offset: 4, 4
+  index: -1
+EP04_4_FISH_S_00002
+  rotate: false
+  xy: 2, 387
+  size: 127, 90
+  orig: 135, 97
+  offset: 4, 4
+  index: -1
+EP04_4_FISH_S_00003
+  rotate: false
+  xy: 260, 388
+  size: 126, 89
+  orig: 135, 97
+  offset: 4, 4
+  index: -1
+EP04_4_FISH_S_00004
+  rotate: false
+  xy: 258, 297
+  size: 117, 89
+  orig: 135, 97
+  offset: 5, 4
+  index: -1
+EP04_4_FISH_S_00005
+  rotate: false
+  xy: 123, 206
+  size: 113, 90
+  orig: 135, 97
+  offset: 5, 3
+  index: -1
+EP04_4_FISH_S_00006
+  rotate: false
+  xy: 2, 204
+  size: 114, 89
+  orig: 135, 97
+  offset: 4, 4
+  index: -1
+EP04_4_FISH_S_00007
+  rotate: false
+  xy: 2, 295
+  size: 119, 90
+  orig: 135, 97
+  offset: 4, 4
+  index: -1
+EP04_4_FISH_S_00008
+  rotate: true
+  xy: 388, 351
+  size: 126, 89
+  orig: 135, 97
+  offset: 3, 4
+  index: -1

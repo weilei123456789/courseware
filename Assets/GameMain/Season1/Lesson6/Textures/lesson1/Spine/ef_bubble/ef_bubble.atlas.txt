@@ -1,0 +1,125 @@
+
+ef_bubble.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 369, 50
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: true
+  xy: 369, 50
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 358
+  size: 164, 145
+  orig: 164, 145
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 168, 361
+  size: 160, 142
+  orig: 160, 142
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 384, 149
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 270, 50
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 168, 263
+  size: 96, 125
+  orig: 96, 125
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 280, 148
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 164, 50
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 166, 155
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 330, 248
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 330, 372
+  size: 156, 131
+  orig: 156, 131
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 73
+  size: 160, 139
+  orig: 160, 139
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 214
+  size: 162, 142
+  orig: 162, 142
+  offset: 0, 0
+  index: -1
+fish_you
+  rotate: false
+  xy: 295, 348
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fish_zuo
+  rotate: false
+  xy: 488, 488
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+red_fish
+  rotate: false
+  xy: 2, 20
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1

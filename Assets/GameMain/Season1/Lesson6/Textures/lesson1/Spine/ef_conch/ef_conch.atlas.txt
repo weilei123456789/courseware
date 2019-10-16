@@ -1,0 +1,20 @@
+
+ef_conch.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+conch
+  rotate: false
+  xy: 2, 32
+  size: 187, 80
+  orig: 192, 81
+  offset: 0, 0
+  index: -1
+conch_y
+  rotate: false
+  xy: 2, 114
+  size: 197, 85
+  orig: 197, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ef_octopus_xia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xia
+  rotate: false
+  xy: 2, 726
+  size: 628, 213
+  orig: 628, 213
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 2, 470
+  size: 254, 937
+  orig: 254, 937
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ef_shell.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shell
+  rotate: false
+  xy: 2, 97
+  size: 89, 87
+  orig: 89, 88
+  offset: 0, 1
+  index: -1
+shell_y
+  rotate: false
+  xy: 93, 97
+  size: 91, 87
+  orig: 91, 88
+  offset: 0, 0
+  index: -1

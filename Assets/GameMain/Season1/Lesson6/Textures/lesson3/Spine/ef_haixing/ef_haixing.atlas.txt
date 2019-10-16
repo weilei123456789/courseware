@@ -1,0 +1,20 @@
+
+ef_haixing.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haixing
+  rotate: false
+  xy: 2, 125
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+haixing_bian
+  rotate: false
+  xy: 2, 2
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1

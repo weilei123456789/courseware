@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameFramework.unity
+    guid: ae596339e98e71e43a8454191ad33ffb
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Game.unity
+    guid: 7c8ca6f4d3b0af748b2abfc9e2985256
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/KinectGameResoure/WhacAMoleGame/WhacAMoleGame.unity
+    guid: 27a5be4cb222b7f47afa01bda9f0aca0
+  - enabled: 1
+    path: Assets/KinectGameResoure/WhacAMoleGame/MarblesGame.unity
+    guid: f1b14bb051840a34b9d5d8fc186a3a0b
+  - enabled: 1
+    path: Assets/KinectGameResoure/WhacAMoleGame/TrampleStars.unity
+    guid: ffd7a67b41da22145b1b18610b20e201

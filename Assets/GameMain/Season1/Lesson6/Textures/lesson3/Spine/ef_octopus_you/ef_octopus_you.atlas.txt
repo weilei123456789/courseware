@@ -1,0 +1,20 @@
+
+ef_octopus_you.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+you
+  rotate: false
+  xy: 96, 3
+  size: 91, 898
+  orig: 91, 898
+  offset: 0, 0
+  index: -1
+you_y
+  rotate: false
+  xy: 2, 2
+  size: 92, 899
+  orig: 92, 899
+  offset: 0, 0
+  index: -1

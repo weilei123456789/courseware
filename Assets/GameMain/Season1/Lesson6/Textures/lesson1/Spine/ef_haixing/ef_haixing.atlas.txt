@@ -1,0 +1,62 @@
+
+ef_haixing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 68, 104
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 65, 170
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 50, 8
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 138
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+haixin
+  rotate: false
+  xy: 2, 234
+  size: 128, 137
+  orig: 130, 137
+  offset: 1, 0
+  index: -1
+haixin_bian
+  rotate: false
+  xy: 2, 61
+  size: 64, 75
+  orig: 64, 76
+  offset: 0, 1
+  index: -1
+haixin_y
+  rotate: false
+  xy: 2, 373
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ef_end.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end
+  rotate: true
+  xy: 226, 2
+  size: 225, 220
+  orig: 225, 220
+  offset: 0, 0
+  index: -1
+end_yinyin
+  rotate: true
+  xy: 2, 2
+  size: 225, 222
+  orig: 225, 222
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 229
+  size: 294, 280
+  orig: 302, 304
+  offset: 0, 15
+  index: -1

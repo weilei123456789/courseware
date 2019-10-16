@@ -1,0 +1,20 @@
+
+ef_octopus_jian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 2, 2
+  size: 206, 811
+  orig: 206, 811
+  offset: 0, 0
+  index: -1
+jian_y
+  rotate: false
+  xy: 210, 6
+  size: 206, 807
+  orig: 206, 808
+  offset: 0, 1
+  index: -1

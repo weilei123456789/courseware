@@ -1,0 +1,13 @@
+
+ef_shuibo.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuibo
+  rotate: false
+  xy: 2, 2
+  size: 1152, 1152
+  orig: 1152, 1152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+ef_yangqi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dapao
+  rotate: false
+  xy: 2, 258
+  size: 254, 262
+  orig: 254, 262
+  offset: 0, 0
+  index: -1
+dapao1
+  rotate: true
+  xy: 2, 2
+  size: 254, 262
+  orig: 254, 262
+  offset: 0, 0
+  index: -1
+xiaopao
+  rotate: false
+  xy: 258, 355
+  size: 26, 25
+  orig: 28, 30
+  offset: 2, 3
+  index: -1
+xiaopao1
+  rotate: false
+  xy: 258, 328
+  size: 26, 25
+  orig: 28, 30
+  offset: 2, 3
+  index: -1
+yangqi
+  rotate: true
+  xy: 258, 382
+  size: 138, 213
+  orig: 138, 214
+  offset: 0, 0
+  index: -1
+yangqi1
+  rotate: false
+  xy: 266, 113
+  size: 138, 213
+  orig: 138, 214
+  offset: 0, 0
+  index: -1
